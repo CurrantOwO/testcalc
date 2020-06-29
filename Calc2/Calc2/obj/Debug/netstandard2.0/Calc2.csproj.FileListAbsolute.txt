@@ -1,0 +1,9 @@
+C:\Users\Виктория\Desktop\палыч\тестирование\6.1(6.2)\Calc2\Calc2\bin\Debug\netstandard2.0\Calc2.deps.json
+C:\Users\Виктория\Desktop\палыч\тестирование\6.1(6.2)\Calc2\Calc2\bin\Debug\netstandard2.0\Calc2.dll
+C:\Users\Виктория\Desktop\палыч\тестирование\6.1(6.2)\Calc2\Calc2\bin\Debug\netstandard2.0\Calc2.pdb
+C:\Users\Виктория\Desktop\палыч\тестирование\6.1(6.2)\Calc2\Calc2\obj\Debug\netstandard2.0\Calc2.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\палыч\тестирование\6.1(6.2)\Calc2\Calc2\obj\Debug\netstandard2.0\Calc2.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\палыч\тестирование\6.1(6.2)\Calc2\Calc2\obj\Debug\netstandard2.0\Calc2.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\палыч\тестирование\6.1(6.2)\Calc2\Calc2\obj\Debug\netstandard2.0\Calc2.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\палыч\тестирование\6.1(6.2)\Calc2\Calc2\obj\Debug\netstandard2.0\Calc2.dll
+C:\Users\Виктория\Desktop\палыч\тестирование\6.1(6.2)\Calc2\Calc2\obj\Debug\netstandard2.0\Calc2.pdb

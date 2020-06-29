@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Zm8LPK8X3ikoyEtg0NLO7dDkE/QxQmvAE4sCRkhK1mZL3ktUR+kwUVeszcun0QZWs22+ZvvKC91uRQFFF2Dyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Виктория\\Desktop\\палыч\\тестирование\\6.1(6.2)\\Calc2\\Calc2\\Calc2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
